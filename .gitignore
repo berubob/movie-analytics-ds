@@ -1,0 +1,25 @@
+.venv/
+venv/
+ENV/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data Science Datasets & Large Files
+data/
+datasets/
+*.csv
+*.parquet
+*.json
+*.h5
+*.pkl
+*.zip
+*.tar.gz
+
+# IDE and OS specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
