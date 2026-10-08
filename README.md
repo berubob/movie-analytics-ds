@@ -1,1 +1,1 @@
-# movie-analytics-ds
+# Data Science Projects - Movie Analytic
