@@ -1,5 +1,4 @@
 # Data Science Projects - Movie Analytic
----
 
 This is My First Personal Project in Data Science Field
 
